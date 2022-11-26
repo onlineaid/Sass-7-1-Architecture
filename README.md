@@ -1,7 +1,7 @@
 # Sass-7-1-Architecture
 CSS Architecture Demonstrations 
 
-sass/
+```sass/
 |
 |– base/
 |   |– _base.scss
@@ -51,3 +51,4 @@ sass/
 |   |– _jqueryui.scss
 |
  – main.scss
+ ```
