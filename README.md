@@ -48,7 +48,6 @@ CSS Architecture Demonstrations
 |– vendors/
 |   |– _bootstrap.scss
 |   |– _owl-carousel.scss
-|   |– _jqueryui.scss
-|
+|   
  – main.scss
  ```
